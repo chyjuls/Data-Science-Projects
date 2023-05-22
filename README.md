@@ -9,7 +9,7 @@ In this repository, I've attempted to solve a variety of real-world problems usi
 
 Here are some of the projects you'll find in this repository:
 
-1. ** Predictive Modelling**: Used machine learning algorithms to predict outcomes based on data.
+1. **Predictive Modelling**: Used machine learning algorithms to predict outcomes based on data.
 2. **Exploratory Data Analysis**: Investigated datasets to discover patterns and relationships between variables.
 3. **Unsupervised Learning**: 
 
