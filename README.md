@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Project
+# Data Science and Machine Learning Projects
 
 This repository contains a comprehensive collection of data science and machine learning projects that I've worked on.
 
